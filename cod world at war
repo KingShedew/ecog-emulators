@@ -10,7 +10,7 @@
  <script>
    window.gameconfig = {
        name: "Call of Duty - World at War (USA)",
-       url: "https://cdn.jsdelivr.net/gh/bubbls/ugss@e1a24919f02b3fff28ea5453f70336b4d82daffe/Call%20of%20Duty%20-%20World%20at%20War%20(USA)/Call%20of%20Duty%20-%20World%20at%20War%20(USA).nds",
+       url: "https://cdn.jsdelivr.net/gh/KingShedew/elitecompositegameemu@main/Call%20of%20Duty%20-%20World%20at%20War%20(USA)/Call%20of%20Duty%20-%20World%20at%20War%20(USA).nds",
        core: "nds",
        min: 1,
        max: 4,
